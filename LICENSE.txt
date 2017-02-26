@@ -1,0 +1,6 @@
+(C) 2017 Gunnar Andersson
+License: Your choice of GPLv2, GPLv3 or CC-BY-4.0
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+https://www.gnu.org/licenses/gpl.html
